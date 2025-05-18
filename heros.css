@@ -1,0 +1,324 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f2027, #2c5364);
+    color: #e3f2fd;
+}
+  .MLBBLOGO {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar ul {
+    list-style-type: none;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+  }
+  .navbar a:hover {
+    background-color: grey;
+}
+.navbar li {
+  float: left;
+  font-size: 150%;
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    margin-top: 100px;
+}
+
+.textbox1 p {
+  background: rgba(30, 40, 60, 0.95);
+  color: #e3f2fd;
+  max-width: 700px;
+  margin: 40px auto;      /* centers the box horizontally and adds vertical space */
+  padding: 75px 75px;     /* space inside the box */
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  text-align: center;
+  font-size: 120%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    margin-top: 20px;
+}
+
+h3 {
+font-size: 150%;
+}
+
+.tank {
+  display: flex;
+   background: rgba(30, 40, 60, 0.95);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  max-width: 1000px;
+  margin: 40px 0 40px 40px auto;
+  overflow: hidden;
+  margin-left: 40px;
+}
+
+.tankimg {
+  width: 100px;           
+  height: 100px;           
+  display: flex;
+  align-items: stretch;
+  margin-top: 250px;
+  margin-left: 30px;
+
+}
+
+.tankimg img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.tanktext {
+  flex: 1 1 0;
+  color: #e3f2fd;
+  padding: 40px 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  font-size: 120%;
+  margin-left: 30px;
+}
+
+
+h4 {
+font-size: 150%;
+}
+
+.assassin {
+  display: flex;
+   background: rgba(30, 40, 60, 0.95);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  max-width: 1000px;
+  margin: 40px 40px 40px auto;
+  overflow: hidden;
+}
+
+.assassinimg {
+  width: 100px;           
+  height: 100px;           
+  display: flex;
+  align-items: stretch;
+  margin-top: 210px;
+  margin-left: 30px;
+
+}
+
+.assassinimg img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.assassintext {
+  flex: 1 1 0;
+  color: #e3f2fd;
+  padding: 40px 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  font-size: 120%;
+  margin-left: 30px;
+}
+
+
+h5 {
+font-size: 150%;
+}
+
+.mage {
+  display: flex;
+   background: rgba(30, 40, 60, 0.95);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  max-width: 1000px;
+  margin: 40px  0 40px 40px auto;
+  overflow: hidden;
+}
+
+.mageimg {
+  width: 100px;           
+  height: 100px;           
+  display: flex;
+  align-items: stretch;
+  margin-top: 210px;
+  margin-left: 30px;
+
+}
+
+.mageimg img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.magetext {
+  flex: 1 1 0;
+  color: #e3f2fd;
+  padding: 40px 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  font-size: 120%;
+  margin-left: 30px;
+}
+
+
+h6 {
+  font-size: 150%;
+  }
+  
+  .fighter {
+    display: flex;
+    background: rgba(30, 40, 60, 0.95);
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+    max-width: 1000px;
+    margin: 40px 40px 40px auto;
+    overflow: hidden;
+  }
+  
+  .fighterimg {
+    width: 100px;           
+    height: 100px;           
+    display: flex;
+    align-items: stretch;
+    margin-top: 250px;
+    margin-left: 30px;
+  
+  }
+  
+  .fighterimg img {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+  
+  .fightertext {
+    flex: 1 1 0;
+    color: #e3f2fd;
+    padding: 40px 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    font-size: 120%;
+    margin-left: 30px;
+  }
+  
+
+h3 {
+font-size: 150%;
+}
+
+.marksman {
+  display: flex;
+   background: rgba(30, 40, 60, 0.95);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  max-width: 1000px;
+  margin: 40px  0 40px 40px auto;
+  overflow: hidden;
+}
+
+.marksmanimg {
+  width: 100px;           
+  height: 100px;           
+  display: flex;
+  align-items: stretch;
+  margin-top: 170px;
+  margin-left: 30px;
+
+}
+
+.marksmanimg img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.marksmantext {
+  flex: 1 1 0;
+  color: #e3f2fd;
+  padding: 40px 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  font-size: 120%;
+  margin-left: 30px;
+}
+
+h3 {
+  font-size: 150%;
+}
+  .support {
+    display: flex;
+    background: rgba(30, 40, 60, 0.95);
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+    max-width: 1000px;
+    margin: 40px 40px 40px auto;
+    overflow: hidden;
+  }
+  
+  .supportimg {
+    width: 100px;           
+    height: 100px;           
+    display: flex;
+    align-items: stretch;
+    margin-top: 130px;
+    margin-left: 30px;
+  
+  }
+  
+  .supportimg img {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+  
+  .supporttext {
+    flex: 1 1 0;
+    color: #e3f2fd;
+    padding: 40px 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    font-size: 120%;
+    margin-left: 30px;
+  }
+  

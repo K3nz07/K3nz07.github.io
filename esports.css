@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #18122B 0%, #22223B 60%, #FFD700 100%);
+  color: #e3f2fd;
+}
+  .MLBBLOGO {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar ul {
+    list-style-type: none;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+  }
+  .navbar a:hover {
+    background-color: grey;
+}
+.navbar li {
+  float: left;
+  font-size: 150%;
+}
+
+
+
+
+
+
+
+.textbox{
+  background: rgba(34, 34, 59, 0.97);
+  color: #FFD700; /* Gold text */
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 48px 48px;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+  text-align: center;
+  font-size: 120%;
+  border: 2px solid #FFD700; /* Gold border */
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.textbox1{
+  background: rgba(34, 34, 59, 0.97);
+  color: #FFD700; /* Gold text */
+  max-width: 700px;
+  margin: 40px 0 40px 40px auto; 
+  padding: 48px 48px;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+  text-align: center;
+  font-size: 120%;
+  border: 2px solid #FFD700; /* Gold border */
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+
+.textbox2{
+  background: rgba(34, 34, 59, 0.97);
+  color: #FFD700; /* Gold text */
+  max-width: 700px;
+  margin: 40px 40px 40px auto; 
+  padding: 48px 48px;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+  text-align: center;
+  font-size: 120%;
+  border: 2px solid #FFD700; /* Gold border */
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.textbox2 ul {
+  text-align: left;
+  margin-left: 2em;
+  display: block;
+}
+
+
+.textbox3{
+  background: rgba(34, 34, 59, 0.97);
+  color: #FFD700; /* Gold text */
+  max-width: 700px;
+  margin: 40px 0 40px 40px auto; 
+  padding: 48px 48px;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+  text-align: center;
+  font-size: 120%;
+  border: 2px solid #FFD700; /* Gold border */
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
